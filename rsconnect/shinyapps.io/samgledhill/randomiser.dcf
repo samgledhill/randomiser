@@ -1,0 +1,14 @@
+name: randomiser
+title: randomiser
+username:
+account: samgledhill
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6349649
+bundleId: 5931928
+url: https://samgledhill.shinyapps.io/randomiser/
+when: 1653215642.77947
+lastSyncTime: 1653215642.77949
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ~$raw_data.xlsx|raw_data.xlsx|test_app/app.R
